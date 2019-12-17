@@ -1,5 +1,5 @@
 # abnormal_distribution_ML_winter19
 
-Booking Doctor's Appointment by Linux commands.
+Finding doctors near you or by specialisation by Linux commands, with a database created by scraping a website using Selenium and BeautifulSoup.
 
-Searching and Sorting all the doctors available in any location.
+
